@@ -1,13 +1,13 @@
 ## Zoxe-Popolari
 
-## DIPENDENZE 
+## Dependency 
 
 * ox_inventory
 * ox_target
 * ox_lib
 
 
-## Frigo bar
+## Items
 * ox_inventory/data/items
 	['casa'] = {
 		label = 'Chiave',
