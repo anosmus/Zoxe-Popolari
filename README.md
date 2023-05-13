@@ -9,6 +9,7 @@
 
 ## Items
 * ox_inventory/data/items
+``lua
 	['casa'] = {
 		label = 'Chiave',
 		description = '🗝️・Chiave Casa Popolare'
