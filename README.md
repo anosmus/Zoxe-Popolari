@@ -8,7 +8,7 @@
 
 
 ## Items
-* + ox_inventory/web/images/casa.png
+* ➕ ox_inventory/web/images/casa.png
 * ox_inventory/data/items
 ```lua
 	['casa'] = {
