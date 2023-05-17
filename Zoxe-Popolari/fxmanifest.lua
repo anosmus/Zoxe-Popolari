@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 lua54 'yes'
 
-Nome 'Humane Mission'
+Nome 'CasePopolari'
 Autore '! ^Zoxe$#5386'
 Discord 'https://discord.gg/avJYpPCfuG'
 Description 'Zoxe-CasePopolari'
