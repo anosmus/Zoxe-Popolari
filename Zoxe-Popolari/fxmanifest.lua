@@ -6,6 +6,7 @@ Nome 'CasePopolari'
 Autore '! ^Zoxe$#5386'
 Discord 'https://discord.gg/avJYpPCfuG'
 Description 'Zoxe-CasePopolari'
+Version '1.0.0'
 
 shared_script "@es_extended/imports.lua"
 shared_script '@ox_lib/init.lua'
